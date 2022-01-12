@@ -1,5 +1,8 @@
 # NLPContaminacion
 
+## Actividades
+1. CIE - Web Scrapping - Sacar sintomas que dice en wikipedia de las enfermedades descritas por la CIE (Revisar ICD Python)
+
 ## Preguntas:
 1. ¿Cual es el objetivo de utilizar NLP?
 2. ¿De donde se obtuvieron los datos de egresos para las enfermedades utilizadas en la notebook?

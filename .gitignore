@@ -1,2 +1,4 @@
-icdenv 
+env
+geckodriver.exe
+googlesearchapikey.txt
 .ipynb_checkpoints

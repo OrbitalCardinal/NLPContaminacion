@@ -1,0 +1,81 @@
+1643318555932	geckodriver	INFO	Listening on 127.0.0.1:54232
+1643318558984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54233" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofileQW68eT"
+*** You are running in headless mode.
+1643318559342	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofileQW68eT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54233/devtools/browser/89a5cb65-e360-41f7-ad04-032006eb79d7
+1643318560726	Marionette	INFO	Listening on port 54238
+1643318561057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54352
+1643318696603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54353" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofile0hKCaw"
+*** You are running in headless mode.
+1643318696911	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofile0hKCaw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54353/devtools/browser/f809d53b-961f-4391-8659-3143eafa34c5
+1643318698045	Marionette	INFO	Listening on port 54358
+1643318698149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54453
+1643319038531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54454" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofilerYWMnL"
+*** You are running in headless mode.
+1643319038862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofilerYWMnL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54454/devtools/browser/429a556a-550c-473d-8416-56d8f7fa1391
+1643319040051	Marionette	INFO	Listening on port 54459
+1643319040083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643320553610	geckodriver	INFO	Listening on 127.0.0.1:54814
+1643320556666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54815" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofileUwmmsr"
+*** You are running in headless mode.
+1643320556989	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofileUwmmsr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54815/devtools/browser/cb87be9a-6782-4efe-a833-3ad6fc32742b
+1643320558239	Marionette	INFO	Listening on port 54820
+1643320558722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54889
+1643320651258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54890" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofile0cGeEX"
+*** You are running in headless mode.
+1643320651549	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofile0cGeEX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54890/devtools/browser/218cbfb0-ceda-45bd-9d5c-00a89946617e
+1643320652746	Marionette	INFO	Listening on port 54895
+1643320652805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643320930116	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643320996575	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643321046073	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643321057122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643321095156	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643321168876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643321569015	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/dPctOHA2ifhWm5WzFM_B5TjT/recaptcha__es_419.js, line 170: TypeError: d is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/dPctOHA2ifhWm5WzFM_B5TjT/recaptcha__es_419.js, line 170: TypeError: d is undefined
+1643333636077	geckodriver	INFO	Listening on 127.0.0.1:56047
+1643333639134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56048" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofileJITAZY"
+*** You are running in headless mode.
+1643333639489	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofileJITAZY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56048/devtools/browser/1b9d9b68-35c8-457d-a2c8-6082b4547b42
+1643333640773	Marionette	INFO	Listening on port 56053
+1643333641196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56144
+1643333803821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56145" "-no-remote" "-profile" "C:\\Users\\EDSONC~1\\AppData\\Local\\Temp\\rust_mozprofileW0XkIU"
+*** You are running in headless mode.
+1643333804209	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Edson Cepeda\\AppData\\Local\\Temp\\rust_mozprofileW0XkIU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56145/devtools/browser/12f2ecff-e991-4c8a-a5d1-9384ef40c142
+1643333805637	Marionette	INFO	Listening on port 56150
+1643333805884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643334474755	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1643334541722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
